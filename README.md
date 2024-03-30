@@ -12,7 +12,7 @@ This program uses Python extensions pyplot and matplotlib to represent a graphic
 
 Execution instructions:
 1. Download your interpreter from one of the links above or use one not listed that you feel confident with
-2. Download the .py, and .csv files and save them to a location you remember
+2. Download the .py, and .csv files and save them all to a location you remember files will need to be in the same location to run correctly
 3. Install the extensions pyplot and matplotlib through the terminal using commands: pip3 install pyplot, pip3 install matplotlib (*Administrator access required*)
 4. From within the interpreter click *File> Open File* and navigate to the location where you saved your .py and .csv files
 5. Within the interpreter click the run/execute button
