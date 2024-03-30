@@ -16,3 +16,4 @@ Execution instructions:
 3. Install the extensions pyplot and matplotlib through the terminal using commands: pip3 install pyplot, pip3 install matplotlib (*Administrator access required*)
 4. From within the interpreter click *File> Open File* and navigate to the location where you saved your .py and .csv files
 5. Within the interpreter click the run/execute button
+6. When prompted enter the desired starting node
